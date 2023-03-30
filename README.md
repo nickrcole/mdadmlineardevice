@@ -1,2 +1,2 @@
-# LAB 5 
-Please refer to the pdf for instructions 
+# MDADM Linear Device Project
+Refer to the pdf for assignment details
